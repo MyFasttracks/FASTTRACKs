@@ -85,7 +85,3 @@ Your defintive source
      <!-- Settings Page-->  
 
      <!-- Customize experience with the application by adjusting preferences such as language, theme, etc. -->                                                                                                                                       </body >  </html >
-
-Daily message quota: 24/30
-
-More info: JWGPT3 Community
